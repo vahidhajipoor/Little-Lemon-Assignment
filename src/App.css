@@ -13,6 +13,16 @@ input {
   padding:5px;
 }
 
+nav li a{
+  text-decoration: none;
+  color:#495e57;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav li a:hover{
+  color:#548d7a;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
