@@ -63,12 +63,12 @@ const Main = () => {
         }}
       >
         <div style={{ background: "white", padding: "20px", borderRadius: "12px", textAlign: "center" }}>
-          <img src={food1} alt="Greek Salad" style={{ width: "100%", borderRadius: "12px" }} />
+          <img src={food2} alt="Greek Salad" style={{ width: "100%", borderRadius: "12px" }} />
           <h3>Greek Salad</h3>
           <p>Fresh vegetables, feta cheese, and olives.</p>
         </div>
         <div style={{ background: "white", padding: "20px", borderRadius: "12px", textAlign: "center" }}>
-          <img src={food2} alt="Bruschetta" style={{ width: "100%", borderRadius: "12px" }} />
+          <img src={food1} alt="Bruschetta" style={{ width: "100%", borderRadius: "12px" }} />
           <h3>Bruschetta</h3>
           <p>Grilled bread with tomatoes, garlic, and basil.</p>
         </div>
