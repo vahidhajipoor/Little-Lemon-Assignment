@@ -1,5 +1,5 @@
 # Little-Lemon-Assignment
-For coursera Meta Front-end casptone assignment
+For 'vahid hajipoor ' coursera Meta Front-end casptone assignment
 
 First do npm i for installing node_modules
 then 
